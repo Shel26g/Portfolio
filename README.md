@@ -17,6 +17,5 @@ It showcases my "skills, projects, education, and professional experience" in a 
 - CSS3 (Flexbox, Animations, Responsive Design)  
 - JavaScript (Interactivity & Animations)  
 
-##  Live Demo
- [View Portfolio Here](https://Shel26g.github.io/Portfolio/)  
+
 
